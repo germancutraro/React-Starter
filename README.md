@@ -15,6 +15,21 @@
 ```
 npm i
 ```
+
+```
+npm start
+```
+
+### Or
+
+```
+yarn install
+```
+
+```
+yarn start
+```
+
 ## Author
 
 **germancutraro**
