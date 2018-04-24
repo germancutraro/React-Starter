@@ -8,7 +8,7 @@ import { Route, Router } from 'react-router'
 const Routes = props => {
   return (
     <Router history={ props.history }>
-    <div className="App">
+    <div>
       <Route exact path="/" component={ Home }/>
     </div>
   </Router>
